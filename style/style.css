@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+a:hover{
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+p{
+    color: white;
+    background-color: rgb(255, 0, 0);
+    width: 80px;
+    
+}
+h5{
+    color: white;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
